@@ -1,0 +1,3 @@
+Le meilleur choix est le design pattern Visitor pour déléguer des fonctionnalités dans des classes séparées sans modifier la structure des données.
+Cela décharge les classes comme Book, CD, en laissant les visiteurs appliquer des opérations spécifiques sur ces objets.
+Ce pattern facilite l'ajout de nouvelles opérations sans changer la structure de base des classes, rendant le système plus flexible et maintenable.
